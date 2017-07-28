@@ -1,0 +1,2 @@
+export const USERINFO_CITY = 'USERINFO_CITY';
+export const USERINFO_LOGIN = 'USERINFO_LOGIN';
