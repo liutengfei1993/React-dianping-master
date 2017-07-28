@@ -1,4 +1,4 @@
-# react-o2o-demo
+# React-dianping-master
 
 React模仿大众点评
 
